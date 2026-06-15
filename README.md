@@ -33,7 +33,7 @@ This dashboard transforms raw sales data into meaningful visualizations, helping
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### Executive Dashboard
 
@@ -96,15 +96,11 @@ This dashboard transforms raw sales data into meaningful visualizations, helping
 
 ### Dashboard Page 1
 
-(Add Screenshot Here)
+ <img width="1342" height="737" alt="Screenshot 2026-06-15 214656" src="https://github.com/user-attachments/assets/035473f1-2f77-4f9b-a49a-72f2c0fbb041" />
 
 ### Dashboard Page 2
 
-(Add Screenshot Here)
-
-### Dashboard Page 3
-
-(Add Screenshot Here)
+ <img width="1386" height="736" alt="image" src="https://github.com/user-attachments/assets/d8a25b41-b7ae-4ae7-bbdb-8deed90ceedd" />
 
 ---
 
@@ -149,7 +145,7 @@ Swiggy-PowerBI-Dashboard/
 
 ##  Author
 
-Shashidhar Nayak
+S Shashidhar 
 
 Bachelor of Technology (CSE – Data Science)
 
