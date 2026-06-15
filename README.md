@@ -155,9 +155,11 @@ Bachelor of Technology (CSE – Data Science)
 
 Skills: Power BI | Python | SQL | Data Analytics | Data Visualization | Machine Learning
 
-LinkedIn: Add Your LinkedIn Profile URL
+LinkedIn: www.linkedin.com/in/
+s-shashidhar-930abb32a
 
-GitHub: Add Your GitHub Profile URL
+
+GitHub: https://github.com/shashinayak2116-ops
 
 ---
 
